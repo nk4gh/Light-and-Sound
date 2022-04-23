@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](completewin.gif)
-![](gif2-link-here)
+![](timeover.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
