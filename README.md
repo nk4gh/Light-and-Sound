@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](completewin.gif)
 ![](timeover.gif)
-![](gif3-link-here)
+![](toomanystrikes.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
