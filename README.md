@@ -30,11 +30,12 @@ The following **optional** features are implemented:
 * [x ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [x ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x ] List anything else that you can get done to improve the app!
+- Provide game status (if currently playing or i the game was won or lost).
 
 ## Video Walkthrough (GIF)
 
